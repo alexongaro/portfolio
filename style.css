@@ -68,3 +68,11 @@ button[submit]{
      display: grid;
     grid-template-columns: 1fr 1fr ;
 }
+.me{
+    text-align: center;
+    color: red;
+}
+.contact{
+    text-align: center;
+    color: red;
+}
